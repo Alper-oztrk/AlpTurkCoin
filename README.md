@@ -31,10 +31,10 @@ ALPK Turkey's top crypto coin
   - you need jdk-8 as well
 
 ----
-## Troubleshooting the NRS (DEN Reference Software) ##
+## Troubleshooting the NRS (ALPK Reference Software) ##
 
   - How to Stop the NRS Server?
-    - click on DEN Stop icon, or run `./stop.sh`
+    - click on ALPK Stop icon, or run `./stop.sh`
     - or if started from command line, ctrl+c or close the console window
 
   - UI Errors or Stacktraces?
