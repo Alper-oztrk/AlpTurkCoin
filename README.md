@@ -3,7 +3,7 @@
 
 ----
 ## What is ALPK? ##
-ALPK is a cryptocurrency to make the world a better place.
+ALPK Turkey's top crypto coin
 
 ----
 ## Get it! ##
