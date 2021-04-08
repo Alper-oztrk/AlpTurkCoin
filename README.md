@@ -52,8 +52,7 @@ Hosts its own Blockchain
     - USERS-GUIDE.md
     - DEVELOPERS-GUIDE.md
     - OPERATORS-GUIDE.md
-    - In the doc folder
-
+    
 ----
 
 ## License
