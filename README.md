@@ -3,7 +3,7 @@
 
 ----
 ## What is ALPK? ##
-ALPK Turkey's top crypto coin
+ALPK Turkey's crypto coin
 
 ----
 ## Get it! ##
