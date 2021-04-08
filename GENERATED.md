@@ -1,3 +1,3 @@
 # Generated
 
-This cryptocurrency has been generated with CoinGenerator - https://coingenerator.sh
+Proof-of-Stake-Cryptocurrency-generator
