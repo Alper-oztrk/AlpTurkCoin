@@ -3,7 +3,8 @@
 
 ----
 ## What is ALPK? ##
-ALPK Turkey's crypto coin
+ALPK Turkey's crypto coin.
+Hosts its own Blockchain
 
 ----
 ## Get it! ##
