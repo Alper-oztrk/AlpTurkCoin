@@ -1,3 +1,3 @@
 # Generated
 
-Proof-of-Stake-Cryptocurrency-generator
+Own Proof of Stake cryptocurrency based on NXT, with its own blockchain.
