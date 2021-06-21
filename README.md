@@ -3,7 +3,7 @@
 
 ----
 ## What is ALTRY? ##
-ALPK Turkey's crypto coin.
+ALTRY Turkey's crypto coin.
 Hosts its own Blockchain
 
 ----
@@ -32,7 +32,7 @@ Hosts its own Blockchain
   - you need jdk-8 as well
 
 ----
-## Troubleshooting the NRS (ALTRY Reference Software) ##
+## Troubleshooting the NRS (NXT Reference Software) ##
 
   - How to Stop the NRS Server?
     - click on ALTRY Stop icon, or run `./stop.sh`
