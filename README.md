@@ -1,9 +1,9 @@
 ----
-# Welcome to ALTRY! #
+# Welcome to ALPK! #
 
 ----
-## What is ALTRY? ##
-ALTRY Turkey's crypto coin.
+## What is ALPK? ##
+ALPK Turkey's crypto coin.
 Hosts its own Blockchain
 
 ----
@@ -18,7 +18,7 @@ Hosts its own Blockchain
 ----
 ## Run it! ##
 
-  - click on the ALTRY icon, or start from the command line:
+  - click on the ALPK icon, or start from the command line:
   - Unix: `./start.sh`
   - Window: `run.bat`
 
@@ -35,7 +35,7 @@ Hosts its own Blockchain
 ## Troubleshooting the NRS (NXT Reference Software) ##
 
   - How to Stop the NRS Server?
-    - click on ALTRY Stop icon, or run `./stop.sh`
+    - click on ALPK Stop icon, or run `./stop.sh`
     - or if started from command line, ctrl+c or close the console window
 
   - UI Errors or Stacktraces?
