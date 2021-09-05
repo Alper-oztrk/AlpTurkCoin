@@ -1,0 +1,13 @@
+hostname=alpturkcoin.com
+email=admin@alpturkcoin.com
+mysql=A6fe6gvN90TuVq6
+mysqluser=da_admin
+adminname=admin
+adminpass=U1R5Z_9NbwjSxQ6im
+ns1=ns1.alpturkcoin.com
+ns2=ns2.alpturkcoin.com
+ip=185.141.33.114
+netmask=255.255.255.0
+uid=94518
+lid=238879
+services=services_debian110_64.tar.gz
